@@ -44,7 +44,7 @@ onMounted(() => {
         <div class="flex items-center gap-2">
           <UColorModeButton />
           <UButton
-            to="https://github.com/niroth"
+            to="https://github.com/PhatNiroth"
             target="_blank"
             icon="i-simple-icons-github"
             aria-label="GitHub"

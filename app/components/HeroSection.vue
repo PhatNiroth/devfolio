@@ -93,7 +93,7 @@ onMounted(() => {
 
           <div class="flex items-center gap-6 mt-10">
             <div class="text-center">
-              <p class="text-2xl font-bold">7+</p>
+              <p class="text-2xl font-bold">4+</p>
               <p class="text-sm text-muted">Years Exp.</p>
             </div>
             <div class="w-px h-10 bg-border" />

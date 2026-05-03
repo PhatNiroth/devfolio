@@ -52,33 +52,33 @@ async function submit() {
           </div>
 
           <div class="space-y-4">
-            <a href="mailto:niroth@example.com" class="flex items-center gap-4 group">
+            <a href="mailto:nirothcontact@gmail.com" class="flex items-center gap-4 group">
               <div class="w-12 h-12 rounded-xl bg-primary-500/10 flex items-center justify-center group-hover:bg-primary-500/20 transition-colors">
                 <UIcon name="i-lucide-mail" class="w-5 h-5 text-primary-500" />
               </div>
               <div>
                 <p class="text-xs text-muted">Email</p>
-                <p class="font-medium group-hover:text-primary-500 transition-colors">niroth@example.com</p>
+                <p class="font-medium group-hover:text-primary-500 transition-colors">nirothcontact@gmail.com</p>
               </div>
             </a>
 
-            <a href="https://linkedin.com/in/niroth" target="_blank" class="flex items-center gap-4 group">
+            <a href="https://www.linkedin.com/in/niroth-phat-836a5424a/" target="_blank" class="flex items-center gap-4 group">
               <div class="w-12 h-12 rounded-xl bg-blue-500/10 flex items-center justify-center group-hover:bg-blue-500/20 transition-colors">
                 <UIcon name="i-simple-icons-linkedin" class="w-5 h-5 text-blue-500" />
               </div>
               <div>
                 <p class="text-xs text-muted">LinkedIn</p>
-                <p class="font-medium group-hover:text-blue-500 transition-colors">linkedin.com/in/niroth</p>
+                <p class="font-medium group-hover:text-blue-500 transition-colors">linkedin.com/in/niroth-phat</p>
               </div>
             </a>
 
-            <a href="https://github.com/niroth" target="_blank" class="flex items-center gap-4 group">
+            <a href="https://github.com/PhatNiroth" target="_blank" class="flex items-center gap-4 group">
               <div class="w-12 h-12 rounded-xl bg-neutral-500/10 flex items-center justify-center group-hover:bg-neutral-500/20 transition-colors">
                 <UIcon name="i-simple-icons-github" class="w-5 h-5" />
               </div>
               <div>
                 <p class="text-xs text-muted">GitHub</p>
-                <p class="font-medium group-hover:text-foreground transition-colors">github.com/niroth</p>
+                <p class="font-medium group-hover:text-foreground transition-colors">github.com/PhatNiroth</p>
               </div>
             </a>
           </div>

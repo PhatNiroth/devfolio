@@ -22,10 +22,10 @@ const highlights = [
           </h2>
           <div class="space-y-4 text-muted leading-relaxed">
             <p>
-              I'm a Senior Full Stack Developer with 7+ years of experience building production systems across fintech, SaaS, and e-commerce. I thrive at the intersection of backend reliability and frontend polish.
+              I'm a Senior Full Stack Developer with 4+ years of experience building production systems across fintech, SaaS, and e-commerce. I thrive at the intersection of backend reliability and frontend polish.
             </p>
             <p>
-              My stack spans Node.js, Go, Vue/Nuxt, React/Next.js, PostgreSQL, Redis, and cloud infrastructure on AWS and GCP. I care deeply about developer experience — good abstractions, good docs, good tooling.
+              My stack spans Node.js, PHP, Vue/Nuxt, React/Next.js, PostgreSQL, Redis, and cloud infrastructure on AWS and GCP. I care deeply about developer experience — good abstractions, good docs, good tooling.
             </p>
             <p>
               When I'm not shipping features, I'm contributing to open source, writing technical articles, or mentoring junior developers.

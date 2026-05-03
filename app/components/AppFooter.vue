@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const socials = [
-  { icon: 'i-simple-icons-github', href: 'https://github.com/niroth', label: 'GitHub' },
-  { icon: 'i-simple-icons-linkedin', href: 'https://linkedin.com/in/niroth', label: 'LinkedIn' },
+  { icon: 'i-simple-icons-github', href: 'https://github.com/PhatNiroth', label: 'GitHub' },
+  { icon: 'i-simple-icons-linkedin', href: 'https://www.linkedin.com/in/niroth-phat-836a5424a/', label: 'LinkedIn' },
   { icon: 'i-simple-icons-x', href: 'https://x.com/niroth', label: 'X / Twitter' }
 ]
 </script>

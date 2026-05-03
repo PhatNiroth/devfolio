@@ -4,7 +4,7 @@ const projects = [
     title: 'FlowPay',
     description: 'Real-time payment processing platform with multi-currency support, fraud detection, and a merchant dashboard. Handles $2M+ in daily transactions.',
     tags: ['Node.js', 'PostgreSQL', 'Redis', 'Vue 3', 'Stripe'],
-    github: 'https://github.com/niroth/flowpay',
+    github: 'https://github.com/PhatNiroth/flowpay',
     demo: 'https://flowpay.demo',
     featured: true,
     color: 'from-primary-500/20 to-orange-500/20'
@@ -13,7 +13,7 @@ const projects = [
     title: 'DataStream',
     description: 'High-throughput event streaming pipeline built on Kafka. Processes 100k+ events/second with real-time dashboards and alerting.',
     tags: ['Go', 'Kafka', 'ClickHouse', 'React', 'Grafana'],
-    github: 'https://github.com/niroth/datastream',
+    github: 'https://github.com/PhatNiroth/datastream',
     demo: 'https://datastream.demo',
     featured: true,
     color: 'from-blue-500/20 to-purple-500/20'
@@ -22,7 +22,7 @@ const projects = [
     title: 'DevKit CLI',
     description: 'Open-source CLI tool for scaffolding production-ready microservices with Docker, CI/CD, and observability baked in. 2k+ GitHub stars.',
     tags: ['Go', 'Docker', 'GitHub Actions', 'Open Source'],
-    github: 'https://github.com/niroth/devkit',
+    github: 'https://github.com/PhatNiroth/devkit',
     demo: null,
     featured: true,
     color: 'from-green-500/20 to-teal-500/20'
@@ -31,7 +31,7 @@ const projects = [
     title: 'ContentAI',
     description: 'AI-powered content management system with auto-tagging, SEO scoring, and multi-author workflows.',
     tags: ['Next.js', 'Python', 'OpenAI', 'Supabase'],
-    github: 'https://github.com/niroth/contentai',
+    github: 'https://github.com/PhatNiroth/contentai',
     demo: 'https://contentai.demo',
     featured: false,
     color: 'from-pink-500/20 to-rose-500/20'
@@ -40,7 +40,7 @@ const projects = [
     title: 'ShopEdge',
     description: 'Headless e-commerce engine with a composable storefront, inventory management, and analytics.',
     tags: ['Nuxt 3', 'Medusa.js', 'PostgreSQL', 'Stripe'],
-    github: 'https://github.com/niroth/shopedge',
+    github: 'https://github.com/PhatNiroth/shopedge',
     demo: 'https://shopedge.demo',
     featured: false,
     color: 'from-indigo-500/20 to-blue-500/20'
@@ -49,7 +49,7 @@ const projects = [
     title: 'AuthForge',
     description: 'Self-hosted authentication service with OAuth2, SAML, magic links, and a management UI.',
     tags: ['Go', 'JWT', 'Redis', 'Vue 3'],
-    github: 'https://github.com/niroth/authforge',
+    github: 'https://github.com/PhatNiroth/authforge',
     demo: null,
     featured: false,
     color: 'from-violet-500/20 to-purple-500/20'
@@ -151,7 +151,7 @@ const filtered = computed(() =>
 
       <div class="text-center mt-10">
         <UButton
-          to="https://github.com/niroth"
+          to="https://github.com/PhatNiroth"
           target="_blank"
           color="neutral"
           variant="outline"
